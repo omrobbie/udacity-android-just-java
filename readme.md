@@ -9,4 +9,5 @@ Merupakan bagian dari [Udacity Classroom Lesson 5](https://classroom.udacity.com
 * [Java Development Kit](http://www.oracle.com/technetwork/java/javase/downloads/index.html "Download JDK")
 
 ### Example source :
-* Copy-paste the code from Udacity [here](https://gist.github.com/udacityandroid/83242daf8a43b743d05e98733a35b19f "Copy-paste example code") for MainActivity.java.
+* Copy-paste kode dari Udacity [here](https://gist.github.com/udacityandroid/83242daf8a43b743d05e98733a35b19f "Copy-paste example code") untuk MainActivity.java
+* Copy-paste [Option A](https://gist.github.com/anonymous/256752a04db14a3947a8 "copy-paste example code") untuk activity_main.xml
