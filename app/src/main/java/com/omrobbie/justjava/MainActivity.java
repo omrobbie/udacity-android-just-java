@@ -1,3 +1,5 @@
+package com.omrobbie.justjava;
+
 /**
  * IMPORTANT: Add your package below. Package name can be found in the project's AndroidManifest.xml file.
  * This is the package name our example uses:
